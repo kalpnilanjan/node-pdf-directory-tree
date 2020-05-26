@@ -12,4 +12,9 @@ NodeJS application to fetch the directory tree from a server, filtering all file
 <host>:<port>/pdf?pdfLink=<filename>
 ```
 
+### Start the Server
+```
+node index
+```
+
 
